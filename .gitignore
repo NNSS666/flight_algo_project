@@ -1,0 +1,11 @@
+# Colab checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data and slides
+data/
+slides/
